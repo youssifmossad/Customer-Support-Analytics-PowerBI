@@ -46,12 +46,12 @@ The solution consists of **two interactive dashboards** across **five report pag
 
 ### Attendance & Shrinkage
 <p align="center">
-<img src="Screenshots/Q1_Summary.png" width="900">
+<img src="Screenshots/Summary.png" width="900">
 </p>
 
 ### Business Performance
 <p align="center">
-<img src="Screenshots/Q2_Overview.png" width="900">
+<img src="Screenshots/Bussiness Overview.png" width="900">
 </p>
 
 ---
