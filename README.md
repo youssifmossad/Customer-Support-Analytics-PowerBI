@@ -1,7 +1,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-005A9C?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
-![Excel](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge)
 # 📊 Customer Support Analytics Dashboard | Power BI
 
 An interactive Power BI reporting solution for customer support operations, developed as part of a **48-hour technical assessment**. The project transforms raw operational data into actionable insights through workforce management and business performance dashboards.
